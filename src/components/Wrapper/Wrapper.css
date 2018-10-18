@@ -1,0 +1,9 @@
+.wrapper {
+  background-image: url('../images/sky.jpg');
+  height: 100vh;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
